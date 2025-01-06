@@ -1,3 +1,1 @@
 Hey there, I am learning Git from Navin Reddy
-
-Hey Blood Singh, I am inside main brach of the GIT repository.
